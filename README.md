@@ -16,7 +16,7 @@
 
 ## 🧱 What’s in this repo
 
-- `notebook.ipynb` — end-to-end code: data prep, model, training, evaluation, exports.
+- `project_v1_8_new.ipynb` — end-to-end code: data prep, model, training, evaluation, exports.
 - `docs/NLP_Project-2.pdf` — final report/paper describing methods, experiments, and findings.
 ---
 
